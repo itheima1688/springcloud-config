@@ -1,0 +1,4 @@
+2 lines (2 sloc)  70 Bytes
+   
+config:
+  info: dev branch,springcloud-config/config-dev.yml version=1
